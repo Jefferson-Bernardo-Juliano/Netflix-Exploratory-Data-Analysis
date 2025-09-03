@@ -46,4 +46,4 @@ O objetivo deste projeto foi explorar e analisar os dados de filmes e séries da
 
 ---
 
-## Looker Studio: https://lookerstudio.google.com/reporting/ee0ad13e-b567-4b43-8d13-4227fc7ba1dd
+### Looker Studio: https://lookerstudio.google.com/reporting/ee0ad13e-b567-4b43-8d13-4227fc7ba1dd
