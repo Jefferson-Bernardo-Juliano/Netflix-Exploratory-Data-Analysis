@@ -14,7 +14,7 @@ O objetivo deste projeto foi explorar e analisar os dados de filmes e séries da
 - **Pandas** – Manipulação e tratamento dos dados  
 - **Matplotlib** e **Seaborn** – Criação de visualizações  
 - **Jupyter Notebook / Google Colab** – Ambiente de desenvolvimento
-- **LookerStudio** - Visualização dos dados 
+- **Looker Studio** - Visualização dos dados 
 
 ---
 
