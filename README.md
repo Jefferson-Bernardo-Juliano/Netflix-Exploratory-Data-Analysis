@@ -43,3 +43,7 @@ O objetivo deste projeto foi explorar e analisar os dados de filmes e séries da
 - Há um **crescimento acentuado** de produções adicionadas após 2015.  
 - Gêneros como **Drama** e **Comédia** estão entre os mais populares.  
 - Os Estados Unidos lideram como país com maior número de títulos disponíveis.
+
+---
+
+## Looker Studio: https://lookerstudio.google.com/reporting/ee0ad13e-b567-4b43-8d13-4227fc7ba1dd
